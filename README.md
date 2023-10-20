@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/image-product-desktop.jpg)
-![](./images/image-product-mobile.jpg)
+![](./images/Product%20Component%20Desktop.png)
+![](./images/Product%20Component%20Mobile.png)
 ### Links
 
 - Solution URL: [https://github.com/byaskew3/FM-Results-Summary-Component/tree/main]
